@@ -19,8 +19,6 @@ describe('Filter shows', function () {
       });
     };
 
-    sampleRequest = 'aa';
-
     var requestOptions = {
       method: 'POST',
       headers: {
